@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
     <!-- metas -->
@@ -99,13 +99,13 @@
     <section id="home" class="home-banner">
         <div class="hb-top-fixed d-flex">
             <div class="hb-info">
-                <label>+04 6545-9535-6515</label>
-                <label>nairobi-designer@domain.com</label>
+                <label>+1 (347) 738-8767</label>
+                <label>info@fariza.us</label>
             </div>
             <div class="hb-lang">
                 <ul class="nav">
                     <li class="active"><a href="#">EN</a></li>
-                    <li><a href="#">FR</a></li>
+                    <li><a href="#">RU</a></li>
                 </ul>
             </div>
         </div>
@@ -114,11 +114,11 @@
                 <div class="col-lg-7">
                     <div class="type-box">
                         <h6>Hello, My name is</h6>
-                        <h1 class="font-alt">Nairobi Gadot</h1>
-                        <p class="lead">Full-stack Developer | UX/UI Designer | Freelancer</p>
-                        <p class="desc">I design and develop services for customers of all sizes, specializing in creating stylish, modern websites, web services and online stores.</p>
+                        <h1 class="font-alt">Fariza Khamrokulova</h1>
+                        <p class="lead">Full-stack Developer | PHP Developer | Freelancer</p>
+                        <p class="desc">I specialize in building dynamic and responsive web applications that engage users and drive business growth. With my strong understanding of PHP programming language...</p>
                         <div class="btn-bar">
-                            <a class="font-alt" href="#">Donwload CV</a>
+                            <a target="_blank" title="Click to download my latest resume" class="font-alt" href="/docs/resume.pdf">Donwload CV</a>
                         </div>
                     </div>
                 </div>
@@ -135,7 +135,7 @@
                     <div class="about-me">
                         <div class="img">
                             <div class="img-in">
-                                <img src="/nairo/static/img/650x650.jpg" title="" alt="">
+                                <img src="/nairo/static/img/about-me.jpg" title="" alt="">
                             </div>
                             <div class="nav social-icons justify-content-center">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -146,8 +146,8 @@
                             </div>
                         </div>
                         <div class="info">
-                            <p>Ux/Ui Designer</p>
-                            <h3>Nairobi Gadot</h3>
+                            <p>Full Stack Developer</p>
+                            <h3>Fariza Khamrakulova</h3>
                         </div>
                     </div>
                 </div>
@@ -157,8 +157,16 @@
                             <h3>Biography</h3>
                         </div>
                         <div class="about-text">
-                            <p>I'm a Freelancer Front-end Developer with over 3 years of experience. I'm from San Francisco. I code and create web elements for amazing people around the world. I like work with new people. New people new Experiences.</p>
-                            <p>I'm a Freelancer Front-end Developer with over 3 years of experience. I'm from San Francisco. I code and create web elements for amazing people around the world. I like work with new people. New people new Experiences.</p>
+                            <p>
+                                I have a hands-on experience in web development technologies such as Laravel, WordPress and CodeIgniter,
+                                I can create custom web solutions that meet the unique needs of clients. I am experienced in front-end
+                                development with HTML, CSS, and JavaScript and can integrate backend functionality with databases such
+                                as MySQL and MongoDB. With my skills and expertise, I can help businesses to improve their online presence
+                                and deliver exceptional user experiences.
+                            </p>
+                            <p>
+                                My primary responsibilities are as a PHP developer working on a website is to create a high-quality web experience for users while ensuring that the website is functional, efficient, and secure.
+                            </p>
                         </div>
                         <div class="info-list">
                             <div class="row">
@@ -166,19 +174,19 @@
                                     <ul>
                                         <li>
                                             <label>Name: </label>
-                                            <span>Nairobi Gadot</span>
+                                            <span>Fariza Khamrakulova</span>
                                         </li>
                                         <li>
-                                            <label>Birthday: </label>
-                                            <span>4th April 1994</span>
+                                            <label>Location: </label>
+                                            <span>Brooklyn, NY USA</span>
                                         </li>
                                         <li>
-                                            <label>Age: </label>
-                                            <span>26 years</span>
+                                            <label>Work Authorization: </label>
+                                            <span>Green Card Holder</span>
                                         </li>
                                         <li>
-                                            <label>Address: </label>
-                                            <span>San Francisco</span>
+                                            <label>Freelance: </label>
+                                            <span>Remote/Hybrid</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -186,19 +194,19 @@
                                     <ul>
                                         <li>
                                             <label>Phone: </label>
-                                            <span>(+38) 469 2344 2364</span>
+                                            <span>+1 (347) 738-8767</span>
                                         </li>
                                         <li>
                                             <label>Email: </label>
-                                            <span>info@domainname.com</span>
+                                            <span>info@fariza.us</span>
                                         </li>
                                         <li>
                                             <label>Skype: </label>
-                                            <span>nairob.40</span>
+                                            <span>farizakh</span>
                                         </li>
                                         <li>
-                                            <label>Freelance: </label>
-                                            <span>Available</span>
+                                            <label>Website: </label>
+                                            <span>www.fariza.us</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -219,7 +227,9 @@
                         <i class="icon theme-bg icon-mobile"></i>
                         <div class="feature-content">
                             <h5>Web Design</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>
+                                I emphasize the importance of a well-designed website that reflects the brand's values, provides a positive user experience, and helps the business achieve its goals.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -228,7 +238,7 @@
                         <i class="icon theme-bg icon-desktop"></i>
                         <div class="feature-content">
                             <h5>Web Development</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>As a web developer would emphasize the importance of having a website that is functional, user-friendly, and mobile responsive, as well as staying up to date with the latest web development technologies and trends.</p>
                         </div>
                     </div>
                 </div>
@@ -237,7 +247,7 @@
                         <i class="icon theme-bg icon-target"></i>
                         <div class="feature-content">
                             <h5>SEO Marketing</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>I focus on the importance of appearing at the top of search engine results pages, targeting the ideal audience, providing long-term benefits, and utilizing analytics and reporting to continuously improve performance.</p>
                         </div>
                     </div>
                 </div>
@@ -252,7 +262,7 @@
                 <div class="col-lg-4 m-15px-tb">
                     <div class="feature-box-02 media align-items-center">
                         <div class="icon">
-                            <img src="/nairo/static/img/350x350.jpg" title="" alt="">
+                            <img src="/nairo/static/img/a1.png" title="" alt="">
                         </div>
                         <div class="media-body">
                             <h6>Honorable mension</h6>
@@ -263,7 +273,7 @@
                 <div class="col-lg-4 m-15px-tb">
                     <div class="feature-box-02 media align-items-center">
                         <div class="icon">
-                            <img src="/nairo/static/img/350x350.jpg" title="" alt="">
+                            <img src="/nairo/static/img/a2.png" title="" alt="">
                         </div>
                         <div class="media-body">
                             <h6>Honorable mension</h6>
@@ -274,7 +284,7 @@
                 <div class="col-lg-4 m-15px-tb">
                     <div class="feature-box-02 media align-items-center">
                         <div class="icon">
-                            <img src="/nairo/static/img/350x350.jpg" title="" alt="">
+                            <img src="/nairo/static/img/a3.png" title="" alt="">
                         </div>
                         <div class="media-body">
                             <h6>Honorable mension</h6>
@@ -292,7 +302,17 @@
             <div class="owl-carousel" data-items="2" data-nav-dots="true" data-md-items="2" data-sm-items="1" data-xs-items="1" data-xx-items="1" data-space="30" data-autoplay="true">
                 <div class="testimonial-01 media">
                     <div class="avatar">
-                        <img src="/nairo/static/img/350x350.jpg" title="" alt="">
+                        <img src="/img/jontoshmatov.png" title="" alt="">
+                    </div>
+                    <div class="media-body">
+                        <p>Throughout the program, Fariza has consistently demonstrated a strong work ethic, an eagerness to learn, and a willingness to take on challenges. She has shown a deep understanding of the concepts and skills taught at MYITEDU and have applied them effectively in her projects and assignments.</p>
+                        <h6>Jon Toshmatov</h6>
+                        <span>MYITEDU, LLC</span>
+                    </div>
+                </div>
+                <div class="testimonial-01 media">
+                    <div class="avatar">
+                        <img src="/nairo/static/img/team-2.jpg" title="" alt="">
                     </div>
                     <div class="media-body">
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
@@ -302,7 +322,7 @@
                 </div>
                 <div class="testimonial-01 media">
                     <div class="avatar">
-                        <img src="/nairo/static/img/350x350.jpg" title="" alt="">
+                        <img src="/nairo/static/img/team-3.jpg" title="" alt="">
                     </div>
                     <div class="media-body">
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
@@ -312,17 +332,7 @@
                 </div>
                 <div class="testimonial-01 media">
                     <div class="avatar">
-                        <img src="/nairo/static/img/350x350.jpg" title="" alt="">
-                    </div>
-                    <div class="media-body">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                        <h6>Jennifer Lutheran</h6>
-                        <span>CEO at pxdraft</span>
-                    </div>
-                </div>
-                <div class="testimonial-01 media">
-                    <div class="avatar">
-                        <img src="/nairo/static/img/350x350.jpg" title="" alt="">
+                        <img src="/nairo/static/img/team-4.jpg" title="" alt="">
                     </div>
                     <div class="media-body">
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
@@ -482,9 +492,9 @@
                             <span>Broadcasting ios App</span>
                         </div>
                         <div class="portfolio-img">
-                            <img src="/nairo/static/img/650x650.jpg" title="" alt="">
+                            <img src="/nairo/static/img/m-portfolio-1.jpg" title="" alt="">
                             <div class="portfolio-icon">
-                                <a href="/nairo/static/img/650x650.jpg" class="gallery-link">
+                                <a href="/nairo/static/img/m-portfolio-1.jpg" class="gallery-link">
                                     <span class="ti-plus"></span>
                                 </a>
                             </div>
@@ -498,9 +508,9 @@
                             <span>Broadcasting ios App</span>
                         </div>
                         <div class="portfolio-img">
-                            <img src="/nairo/static/img/650x650.jpg" title="" alt="">
+                            <img src="/nairo/static/img/m-portfolio-2.jpg" title="" alt="">
                             <div class="portfolio-icon">
-                                <a href="/nairo/static/img/650x650.jpg" class="gallery-link">
+                                <a href="/nairo/static/img/m-portfolio-2.jpg" class="gallery-link">
                                     <span class="ti-plus"></span>
                                 </a>
                             </div>
@@ -514,9 +524,9 @@
                             <span>Broadcasting ios App</span>
                         </div>
                         <div class="portfolio-img">
-                            <img src="/nairo/static/img/650x650.jpg" title="" alt="">
+                            <img src="/nairo/static/img/m-portfolio-3.jpg" title="" alt="">
                             <div class="portfolio-icon">
-                                <a href="/nairo/static/img/650x650.jpg" class="gallery-link">
+                                <a href="/nairo/static/img/m-portfolio-3.jpg" class="gallery-link">
                                     <span class="ti-plus"></span>
                                 </a>
                             </div>
@@ -530,9 +540,9 @@
                             <span>Broadcasting ios App</span>
                         </div>
                         <div class="portfolio-img">
-                            <img src="/nairo/static/img/650x650.jpg" title="" alt="">
+                            <img src="/nairo/static/img/m-portfolio-4.jpg" title="" alt="">
                             <div class="portfolio-icon">
-                                <a href="/nairo/static/img/650x650.jpg" class="gallery-link">
+                                <a href="/nairo/static/img/m-portfolio-4.jpg" class="gallery-link">
                                     <span class="ti-plus"></span>
                                 </a>
                             </div>
@@ -546,9 +556,9 @@
                             <span>Broadcasting ios App</span>
                         </div>
                         <div class="portfolio-img">
-                            <img src="/nairo/static/img/650x650.jpg" title="" alt="">
+                            <img src="/nairo/static/img/m-portfolio-5.jpg" title="" alt="">
                             <div class="portfolio-icon">
-                                <a href="/nairo/static/img/650x650.jpg" class="gallery-link">
+                                <a href="/nairo/static/img/m-portfolio-5.jpg" class="gallery-link">
                                     <span class="ti-plus"></span>
                                 </a>
                             </div>
@@ -562,9 +572,9 @@
                             <span>Broadcasting ios App</span>
                         </div>
                         <div class="portfolio-img">
-                            <img src="/nairo/static/img/650x650.jpg" title="" alt="">
+                            <img src="/nairo/static/img/m-portfolio-6.jpg" title="" alt="">
                             <div class="portfolio-icon">
-                                <a href="/nairo/static/img/650x650.jpg" class="gallery-link">
+                                <a href="/nairo/static/img/m-portfolio-6.jpg" class="gallery-link">
                                     <span class="ti-plus"></span>
                                 </a>
                             </div>
@@ -578,9 +588,9 @@
                             <span>Broadcasting ios App</span>
                         </div>
                         <div class="portfolio-img">
-                            <img src="/nairo/static/img/650x650.jpg" title="" alt="">
+                            <img src="/nairo/static/img/m-portfolio-7.jpg" title="" alt="">
                             <div class="portfolio-icon">
-                                <a href="/nairo/static/img/650x650.jpg" class="gallery-link">
+                                <a href="/nairo/static/img/m-portfolio-7.jpg" class="gallery-link">
                                     <span class="ti-plus"></span>
                                 </a>
                             </div>
@@ -594,9 +604,9 @@
                             <span>Broadcasting ios App</span>
                         </div>
                         <div class="portfolio-img">
-                            <img src="/nairo/static/img/650x650.jpg" title="" alt="">
+                            <img src="/nairo/static/img/m-portfolio-8.jpg" title="" alt="">
                             <div class="portfolio-icon">
-                                <a href="/nairo/static/img/650x650.jpg" class="gallery-link">
+                                <a href="/nairo/static/img/m-portfolio-8.jpg" class="gallery-link">
                                     <span class="ti-plus"></span>
                                 </a>
                             </div>
@@ -610,9 +620,9 @@
                             <span>Broadcasting ios App</span>
                         </div>
                         <div class="portfolio-img">
-                            <img src="/nairo/static/img/650x650.jpg" title="" alt="">
+                            <img src="/nairo/static/img/m-portfolio-9.jpg" title="" alt="">
                             <div class="portfolio-icon">
-                                <a href="/nairo/static/img/650x650.jpg" class="gallery-link">
+                                <a href="/nairo/static/img/m-portfolio-9.jpg" class="gallery-link">
                                     <span class="ti-plus"></span>
                                 </a>
                             </div>
@@ -634,7 +644,7 @@
                     <div class="blog-grid">
                         <div class="blog-img">
                             <a href="single-blog.html">
-                                <img src="/nairo/static/img/1000x650.jpg" title="" alt="">
+                                <img src="/nairo/static/img/blog-1.jpg" title="" alt="">
                             </a>
                         </div>
                         <div class="blog-info">
@@ -647,7 +657,7 @@
                     <div class="blog-grid">
                         <div class="blog-img">
                             <a href="single-blog.html">
-                                <img src="/nairo/static/img/1000x650.jpg" title="" alt="">
+                                <img src="/nairo/static/img/blog-2.jpg" title="" alt="">
                             </a>
                         </div>
                         <div class="blog-info">
@@ -660,7 +670,7 @@
                     <div class="blog-grid">
                         <div class="blog-img">
                             <a href="single-blog.html">
-                                <img src="/nairo/static/img/1000x650.jpg" title="" alt="">
+                                <img src="/nairo/static/img/blog-3.jpg" title="" alt="">
                             </a>
                         </div>
                         <div class="blog-info">
@@ -673,7 +683,7 @@
                     <div class="blog-grid">
                         <div class="blog-img">
                             <a href="single-blog.html">
-                                <img src="/nairo/static/img/1000x650.jpg" title="" alt="">
+                                <img src="/nairo/static/img/blog-4.jpg" title="" alt="">
                             </a>
                         </div>
                         <div class="blog-info">
@@ -695,20 +705,20 @@
             <div class="row">
                 <div class="col-lg-5 col-xl-4 m-15px-tb">
                     <div class="contact-info">
-                        <h4>What’s your story? Get in touch</h4>
-                        <p>Always available for freelancing if the right project comes along, Feel free to contact me.</p>
+                        <h4>Contact Me</h4>
+                        <p>I am available to work remote or hybrid environment anywhere in the USA</p>
                         <ul>
                             <li class="media">
                                 <i class="ti-map"></i>
-                                <span class="media-body">123 Stree New York City , United States Of America 750065.</span>
+                                <span class="media-body">Brooklyn, NY USA 11229.</span>
                             </li>
                             <li class="media">
                                 <i class="ti-email"></i>
-                                <span class="media-body">support@domain.com</span>
+                                <span class="media-body">info@fariza.us</span>
                             </li>
                             <li class="media">
                                 <i class="ti-mobile"></i>
-                                <span class="media-body">+044 9696 9696 3636</span>
+                                <span class="media-body">+1 (347) 738-8767</span>
                             </li>
                         </ul>
                     </div>
@@ -752,7 +762,7 @@
                 <div class="col-12">
                     <div class="google-map">
                         <div class="embed-responsive embed-responsive-21by9">
-                            <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3151.840107317064!2d144.955925!3d-37.817214!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sin!4v1520156366883" allowfullscreen=""></iframe>
+                            <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1514.5961106573436!2d-73.95907653833181!3d40.60358243046089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24492ad9ed311%3A0xf163dccc96668aa2!2s1866%20E%2013th%20St%2C%20Brooklyn%2C%20NY%2011229!5e0!3m2!1sen!2sus!4v1682352887559!5m2!1sen!2sus" allowfullscreen=""></iframe>
                         </div>
                     </div>
                 </div>
@@ -776,7 +786,7 @@
                 </div>
             </div>
             <div class="col-md-6 m-10px-tb text-center text-md-right">
-                <p>© 2020 copyright all right reserved</p>
+                <p>© {{date('Y')}} Copyrights all rights reserved</p>
             </div>
         </div>
     </div>
