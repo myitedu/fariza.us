@@ -32,8 +32,10 @@ $(function () {
        setCookie("color", color, 365);
 
        if (color=='black'){
-            $("body").toggleClass("theme-light");
-        }
+            $("body").removeClass("theme-light");
+        }else{
+           $("body").addClass("theme-light");
+       }
     });
 
     let bgcolor= getCookie('color');
