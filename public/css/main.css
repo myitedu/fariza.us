@@ -1,0 +1,41 @@
+.change_color:last-child:hover{
+    background-color: #1a1919;
+}
+.change_color:first-child:hover{
+    background-color: #e1dede;
+}
+.change_color:first-child{
+    background-color: white;
+}
+.change_color:last-child{
+    background-color: black;
+}
+.change_color{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+#user_panel li{
+    text-align: center;
+    position: relative;
+    left: -18px;
+    top: 18px;
+}
+#user_panel{
+    width: 80px;
+    height: 100px;
+    background-color: #ff930038;
+    position: fixed;
+    left: 1px;
+    top: 550px;
+    z-index: 1000;
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+    display: none;
+}
+p.desc{
+    z-index: 10;
+}

@@ -23,6 +23,7 @@
     <link href="/nairo/static/plugin/scroll/jquery.mCustomScrollbar.min.css" rel="stylesheet">
     <!-- theme css -->
     <link href="/nairo/static/css/style.css" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet">
 </head>
 <!-- Body Start -->
 
@@ -54,7 +55,7 @@
         <div class="hl-top">
             <div class="hl-logo">
                 <a href="#">
-                    N
+                    F
                 </a>
             </div>
         </div>
@@ -88,6 +89,18 @@
                 <a class="nav-link" href="#contactus" data-toggle="tooltip" title="CONTACT">
                     <i class="fas fa-id-card-alt"></i>
                 </a>
+            </li>
+            <li>
+                <a id="a_change_color" class="nav-link" href="#" data-toggle="tooltip" title="Color">
+                    <i class="fas fa-keyboard"></i>
+                </a>
+                <ul id="user_panel">
+                    <li>
+                        <div data-color="white" class="change_color"></div>
+                        <div data-color="black" class="change_color"></div>
+                    </li>
+
+                </ul>
             </li>
         </ul>
     </div>
@@ -807,6 +820,7 @@
 <!-- custom js -->
 <script src="/nairo/static/js/custom.js"></script>
 <script src="/nairo/static/js/mail_send.js"></script>
+<script src="/js/main.js"></script>
 <!-- end -->
 </body>
 <!-- Body End -->
