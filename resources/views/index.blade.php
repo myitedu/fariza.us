@@ -7,10 +7,11 @@
     <meta name="author" content="themepaa">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="keywords" content="Nairo - Portfolio Template">
-    <meta name="description" content="Nairo - Portfolio Template">
+    <meta name="keywords" content="software engineer, full stack developer, php developer, uzbek dasturchi, uzbek programmer, new york developer">
+    <meta name="description" content="Fariza is a dedicated full stack developer who develop and maintain data-driven dynamic web applications">
+    <meta name="author" content="Fariza Khamrakulova">
     <!-- title -->
-    <title>Nairo - Portfolio Template</title>
+    <title>A full stack developer/software engineer in New York</title>
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <!-- plugin CSS -->
@@ -25,7 +26,7 @@
     <link href="/nairo/static/css/style.css" rel="stylesheet">
     <link href="/css/main.css" rel="stylesheet">
 </head>
-<!-- Body Start -->
+<!-- Body Start  -->
 
 <body data-spy="scroll" data-target="#navbar-collapse-toggle" data-offset="70">
 <!-- page loading -->
