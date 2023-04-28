@@ -102,6 +102,11 @@
 
                 </ul>
             </li>
+            <li>
+                <a class="nav-link" href="#youtube" data-toggle="tooltip" title="YOUTUBE">
+                    <i class="fas fa-youtube"></i>
+                </a>
+            </li>
         </ul>
     </div>
 </header>
@@ -160,7 +165,7 @@
                         </div>
                         <div class="info">
                             <p>Full Stack Developer</p>
-                            <h3>Fariza Khamrakulova</h3>
+                            <h3>Fariza Khamrokulova</h3>
                         </div>
                     </div>
                 </div>
@@ -187,7 +192,7 @@
                                     <ul>
                                         <li>
                                             <label>Name: </label>
-                                            <span>Fariza Khamrakulova</span>
+                                            <span>Fariza Khamrokulova</span>
                                         </li>
                                         <li>
                                             <label>Location: </label>
@@ -329,8 +334,8 @@
                     </div>
                     <div class="media-body">
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                        <h6>Jennifer Lutheran</h6>
-                        <span>CEO at pxdraft</span>
+                        <h6>Zarina Urinbaeva</h6>
+                        <span>urinbaeva.com</span>
                     </div>
                 </div>
                 <div class="testimonial-01 media">
@@ -369,7 +374,25 @@
                         <div class="col-md-4 col-xl-3">
                             <div class="rb-left">
                                 <h6>Front-end Developer</h6>
-                                <label>WeLab | Remote</label>
+                                <label>We Lab| Remote</label>
+                                <p>Nov 2012 - Present</p>
+                                <div class="rb-time">Full Time</div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-xl-9">
+                            <div class="rb-right">
+                                <h6>MYITEDU, LLC</h6>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="resume-row">
+                    <div class="row">
+                        <div class="col-md-4 col-xl-3">
+                            <div class="rb-left">
+                                <h6>Front-end Developer</h6>
+                                <label>We Lab | Present</label>
                                 <p>Jan 2019 - Present</p>
                                 <div class="rb-time">Full Time</div>
                             </div>
@@ -387,25 +410,7 @@
                         <div class="col-md-4 col-xl-3">
                             <div class="rb-left">
                                 <h6>Front-end Developer</h6>
-                                <label>WeLab | Remote</label>
-                                <p>Jan 2019 - Present</p>
-                                <div class="rb-time">Full Time</div>
-                            </div>
-                        </div>
-                        <div class="col-md-8 col-xl-9">
-                            <div class="rb-right">
-                                <h6>About Company</h6>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="resume-row">
-                    <div class="row">
-                        <div class="col-md-4 col-xl-3">
-                            <div class="rb-left">
-                                <h6>Front-end Developer</h6>
-                                <label>WeLab | Remote</label>
+                                <label>We Lab | Present</label>
                                 <p>Jan 2019 - Present</p>
                                 <div class="rb-time">Full Time</div>
                             </div>
@@ -429,19 +434,19 @@
                 <div class="col-lg-4 m-15px-tb">
                     <ul class="aducation-box">
                         <li>
-                            <span>2010-2012</span>
-                            <h6>Graphic Designer</h6>
-                            <p>International Design Institute</p>
+                            <span>2010-2013</span>
+                            <h6>High School</h6>
+                            <p>Abraham Lincoln High School</p>
                         </li>
                         <li>
-                            <span>2010-2012</span>
-                            <h6>Graphic Designer</h6>
-                            <p>International Design Institute</p>
+                            <span>2021-2022</span>
+                            <h6>Cosmetology</h6>
+                            <p>Empire Beauty School</p>
                         </li>
                         <li>
-                            <span>2010-2012</span>
-                            <h6>Graphic Designer</h6>
-                            <p>International Design Institute</p>
+                            <span>2022-2023</span>
+                            <h6>Full Stuck Developer</h6>
+                            <p>MY IT EDUCATION</p>
                         </li>
                     </ul>
                 </div>
