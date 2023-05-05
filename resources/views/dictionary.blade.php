@@ -30,8 +30,12 @@
 
 <body data-spy="scroll" data-target="#navbar-collapse-toggle" data-offset="70">
     @php
+    if (isset($words['data']->results)){
     $results = $words['data']->results;
 	$count = 0;
+	}else{
+		$results = [];
+	}
     @endphp
 
 
@@ -116,7 +120,7 @@
             <hr>
 
             <div class="dictionary_results">
-                <h6>You are searching the word: <span>anticipating</span></h6>
+                <h6>You are searching the word: <span>{{strtolower($keyword)}}</span></h6>
                 <table class="table table-bordered">
                     @foreach($results as $result)
                         @php

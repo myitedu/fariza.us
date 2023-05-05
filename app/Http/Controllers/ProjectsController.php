@@ -8,7 +8,12 @@ class ProjectsController extends Controller
 {
     public function dictionary(Request $request){
         $keyword = $request->input("keyword");
-        $words = $this->callApi($keyword);
+        $keyword = strip_tags($keyword);
+        if ($keyword){
+            $words = $this->callApi($keyword);
+        }else{
+            $words = [];
+        }
         return view('dictionary',compact('keyword','words'));
     }
     protected function callApi($keyword){
