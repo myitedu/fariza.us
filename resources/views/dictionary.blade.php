@@ -108,7 +108,7 @@
 <main class="main-left">
     <section id="about" class="section dark-bg">
         <div class="container">
-            <p class="lead">Full-stack Developer | PHP Developer | Freelancer</p>
+            <p class="lead">Fariza's Custom Dictionary</p>
             <div class="separated"></div>
             <form action="/projects/dictionary" method="get">
                 <p>
