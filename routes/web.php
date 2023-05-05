@@ -13,4 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 use App\Http\Controllers\PublicController;
+use App\Http\Controllers\ProjectsController;
+
 Route::get('/',[PublicController::class, 'index'])->name('home');
+Route::get('/projects/dictionary',[ProjectsController::class, 'dictionary'])->name('dictionary');
